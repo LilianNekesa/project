@@ -2,7 +2,14 @@ Streamlit App link: https://finalapp.streamlit.app/
 
 
 
-In this analysis we are going to perform explaratory and predictive analysis. Through this data, we are also going to see which features contributes most to total production. For this prediction, we are going to use machine learning and deep learning to train our model and predict the outcome. This analysis contains visualizations done using plotly and a dashboard deployed in streamlit. 
+In this analysis we are going to perform explaratory and predictive analysis. 
+We will find out:
+
+1. The best performing quarter in production
+2. The best performing season for production
+3. Features contributing to total production
+
+Through this data, we are also going to see which features contributes most to total production. For this prediction, we are going to use machine learning and deep learning to train our model and predict the outcome. This analysis contains visualizations done using plotly and a dashboard deployed in streamlit. 
 
 This is what the colum names stand for;
 GH NO - Green house number
@@ -22,6 +29,7 @@ APROD/M2 - April production data per metre squared
 MAPROD -May production data
 
 MPROD/M2 - May production data per metre squared
+
 
 JPROD - June production data
 
