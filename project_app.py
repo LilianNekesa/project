@@ -9,7 +9,8 @@ import path
 
 @st.cache_data
 def data():
-    df = pd.read_excel("C:\Users\Admin\Downloads\group2x.xlsx")
+    url= "https://github.com/LilianNekesa/project/blob/main/group2x.xlsx"
+    df = pd.read_excel(url)
     return df
 
     data = data()
