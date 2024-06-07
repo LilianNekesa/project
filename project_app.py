@@ -9,7 +9,7 @@ import path
 
 @st.cache_data
 def data():
-    df = pd.read_excel("C:\Users\Admin\Downloads\group2.xlsx")
+    df = pd.read_excel("C:\Users\Admin\Downloads\group2x.xlsx")
     return df
 
     data = data()
