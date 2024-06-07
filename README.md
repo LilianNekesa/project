@@ -6,8 +6,11 @@ In this analysis we are going to perform explaratory and predictive analysis. Th
 
 This is what the colum names stand for;
 GH NO - Green house number
+
 VARIETY - Type of flower
+
 PLANTING STDATE - Date when the flower was first planted
+
 SAREA - Total Area in metre square covered by a variety
 NAREA - New Area covered by a variety(moved from One location to another)
 APROD - April production data
